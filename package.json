@@ -1,20 +1,29 @@
 {
   "name": "glob-plus",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A glob that learned to read.",
   "engines": {
     "node": ">=6.0.0"
   },
   "main": "index.js",
   "keywords": [
-      "glob",
-      "glob-plus",
-      "glob-read",
-      "glob-stat"
+    "glob",
+    "glob-plus",
+    "glob-read",
+    "glob-stat"
   ],
   "author": "Mark Tiedemann <www.marktiedemann@gmail.com>",
   "license": "WTFPL",
   "dependencies": {
     "glob": "^7.0.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkTiedemann/glob-plus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MarkTiedemann/glob-plus/issues"
+  },
+  "homepage": "https://github.com/MarkTiedemann/glob-plus"
 }
