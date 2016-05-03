@@ -1,0 +1,20 @@
+{
+  "name": "glob-plus",
+  "version": "0.0.1",
+  "description": "A glob that learned to read.",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "main": "index.js",
+  "keywords": [
+      "glob",
+      "glob-plus",
+      "glob-read",
+      "glob-stat"
+  ],
+  "author": "Mark Tiedemann <www.marktiedemann@gmail.com>",
+  "license": "WTFPL",
+  "dependencies": {
+    "glob": "^7.0.3"
+  }
+}
